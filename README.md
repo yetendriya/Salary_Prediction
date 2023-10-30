@@ -6,9 +6,12 @@ The project utilizes Python and popular machine learning libraries to process an
 # Data Preprocessing and Exploration
 
 Data Cleaning: The project begins by importing the dataset and cleaning it to handle missing values and ensure consistency in the data.
+
 Exploratory Data Analysis (EDA): Exploratory analysis techniques such as histograms, bar plots, and correlation matrices are employed to understand the distribution and relationships among different attributes.
 Feature Engineering
+
 Categorical Encoding: Categorical variables like gender, board of education, and specialization are encoded using one-hot encoding to make them suitable for machine learning algorithms.
+
 Total Percentage Calculation: A new feature, total percentage, is created by summing up the percentages from various education levels to capture an overall academic performance measure.
 
 # Model Selection and Training
